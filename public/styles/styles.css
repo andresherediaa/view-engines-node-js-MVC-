@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 34px;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.container-image img {
+  width: 100%;
+  height: auto;
+}
